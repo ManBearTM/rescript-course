@@ -1,7 +1,5 @@
 ---
 title: INTRO
-layout: template
-filename: INTRO.md
 --- 
 
 ### Intro
